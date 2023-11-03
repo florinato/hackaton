@@ -30,3 +30,4 @@ Crèdits
 Aquesta anàlisi va ser realitzada per Òscar Quintana Ciprés alias 'florinato' com a part del repte de Jump Digital.
 
 Les dades van ser obtingudes del portal de dades obertes de l'Ajuntament de Barcelona.
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/poblacio-exposada-mapa-estrategic-soroll/resource/5bb4138e-5215-43a9-b61e-01e82864180d https://opendata-ajuntament.barcelona.cat/data/es/dataset/est-mercat-immobiliari-lloguer-mitja-mensual/resource/8148fe53-6bb4-42ca-98df-93e6b723dca9
